@@ -1,0 +1,5 @@
+http://www.osp.ru/rss/news.rss
+http://radiovesti.ru/rss/section/section_id/10025
+http://tass.ru/rss/v2.xml?sections=NDYxNA%3D%3D
+https://lenta.ru/rss/top7
+https://news.yandex.ru/world.rss
