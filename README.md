@@ -1,2 +1,2 @@
 # JavaProjects
-My training Java projects
+Training Java projects
